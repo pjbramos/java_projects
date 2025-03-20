@@ -9,4 +9,17 @@ This repository includes the Java projects I have explored with reference from v
 ### [Password Generator]()
 Password generator based on [this project](https://github.com/KZarzour/Password-Generator/tree/master)
 
-### 
+### [Online Survey]()
+Online survey based on [this project](https://github.com/kodekracker/Online-Survey-System)
+
+### [CV Builder]()
+CV Builder based on [this project](https://github.com/meetakbari/CV-Resume-Builder)
+
+### [Course Management System]()
+CMS based on [this project](https://github.com/R0shish/Course-Management-System)
+
+### [Electricity Billing System]()
+Based on [this project](https://github.com/Adarsh9616/Electricity_Billing_System)
+
+### [Online Banking System]()
+Based on [this project](https://github.com/R0shish/Course-Management-System)
