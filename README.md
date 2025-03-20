@@ -12,9 +12,6 @@ Password generator based on [this project](https://github.com/KZarzour/Password-
 ### [Online Survey](https://github.com/pjbramos/java_projects/tree/main/online_survey)
 Online survey based on [this project](https://github.com/kodekracker/Online-Survey-System)
 
-### [CV Builder](https://github.com/pjbramos/java_projects/tree/main/cv_builder)
-CV Builder based on [this project](https://github.com/meetakbari/CV-Resume-Builder)
-
 ### [Course Management System](https://github.com/pjbramos/java_projects/tree/main/course_mngmt)
 CMS based on [this project](https://github.com/R0shish/Course-Management-System)
 
@@ -23,3 +20,6 @@ Based on [this project](https://github.com/Adarsh9616/Electricity_Billing_System
 
 ### [Online Banking System](https://github.com/pjbramos/java_projects/tree/main/obs)
 Based on [this project](https://github.com/R0shish/Course-Management-System)
+
+### [CV Builder](https://github.com/pjbramos/java_projects/tree/main/cv_builder)
+CV Builder based on [this project](https://github.com/meetakbari/CV-Resume-Builder)
