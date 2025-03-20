@@ -9,7 +9,7 @@ This repository includes the Java projects I have explored with reference from v
 ### [Password Generator](https://github.com/pjbramos/java_projects/tree/main/password_gen)
 Password generator based on [this project](https://github.com/KZarzour/Password-Generator/tree/master)
 
-### [Online Survey]()
+### [Online Survey](https://github.com/pjbramos/java_projects/tree/main/online_survey)
 Online survey based on [this project](https://github.com/kodekracker/Online-Survey-System)
 
 ### [CV Builder]()
