@@ -12,7 +12,7 @@ Password generator based on [this project](https://github.com/KZarzour/Password-
 ### [Online Survey](https://github.com/pjbramos/java_projects/tree/main/online_survey)
 Online survey based on [this project](https://github.com/kodekracker/Online-Survey-System)
 
-### [CV Builder]()
+### [CV Builder](https://github.com/pjbramos/java_projects/tree/main/cv_builder)
 CV Builder based on [this project](https://github.com/meetakbari/CV-Resume-Builder)
 
 ### [Course Management System](https://github.com/pjbramos/java_projects/tree/main/course_mngmt)
